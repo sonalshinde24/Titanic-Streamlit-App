@@ -22,7 +22,7 @@ This project predicts the survival of passengers on the Titanic using **Machine 
 
 ## ⚙️ Tech Stack  
 
-- **Python 3.x**  
+- **Python 3.11.3**  
 - **Pandas, NumPy** – Data preprocessing  
 - **Scikit-Learn** – Machine Learning model  
 - **Streamlit** – Web app deployment  
@@ -55,10 +55,10 @@ This project predicts the survival of passengers on the Titanic using **Machine 
 
 🎯 Features of the App
 
-- ✅ User-friendly Streamlit interface
-- ✅ Takes passenger details as input
-✅ Predicts survival chances instantly
-✅ Deployed online via Streamlit Cloud
+- User-friendly Streamlit interface
+- Takes passenger details as input
+- Predicts survival chances instantly
+- Deployed online via Streamlit Cloud
 
 ---
 ✨ If you like this project, don’t forget to ⭐ the repo!
