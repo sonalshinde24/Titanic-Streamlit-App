@@ -8,13 +8,14 @@ This project predicts the survival of passengers on the Titanic using **Machine 
 ---
 
 ## 📂 Project Structure  
-
+```bash
 ├── .gitignore # Ignore unnecessary files (env, cache, etc.)
 ├── app.py # Streamlit app code
 ├── requirements.txt # Project dependencies
 ├── titanic_model.pkl # Trained ML model (Pickle file)
 ├── train_model.ipynb # Notebook used for training the model
 └── README.md # Project documentation
+```
 
 
 ---
@@ -37,12 +38,27 @@ This project predicts the survival of passengers on the Titanic using **Machine 
    cd titanic-app
    
 2.**Create virtual environment (optional but recommended)**
-python -m venv venv
-source venv/bin/activate     # On Mac/Linux
-venv\Scripts\activate        # On Windows
-
+   ```bash
+   python -m venv venv
+   source venv/bin/activate     # On Mac/Linux
+   venv\Scripts\activate        # On Windows
+   ```
 3. **Install dependencies**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. **Run the Streamlit app**
-streamlit run app.py
+   ```bash
+   streamlit run app.py
+   
+---
+
+🎯 Features of the App
+
+- ✅ User-friendly Streamlit interface
+- ✅ Takes passenger details as input
+✅ Predicts survival chances instantly
+✅ Deployed online via Streamlit Cloud
+
+---
+✨ If you like this project, don’t forget to ⭐ the repo!
