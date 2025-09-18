@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction App  
 
-This project predicts the survival of passengers on the Titanic using **Machine Learning**. The trained model is deployed as an interactive **Streamlit web app** where users can input passenger details and get survival predictions.  
+This project predicts the survival of passengers on the Titanic using **Machine Learning**. The trained model is deployed as an interactive **Streamlit web app** where users can input passenger details and get survival predictions.
 
 🔗 **Live App:** [Click Here to Try](https://titanic-app-app-wkxtxjreesmrxeezn8ue4s.streamlit.app/)  
 📂 **GitHub Repo:** [Click Here](https://github.com/sonalshinde24/titanic-app)  
